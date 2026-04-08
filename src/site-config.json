@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Adrians Garage Door",
+    "phone": "17047091070",
+    "category": "garage-door",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "garage-door-heritage-craft",
+      "categoryGroup": "garage-door",
+      "name": "Heritage Craft",
+      "recipeFile": "garage-door/heritage-craft.astro",
+      "colors": {
+        "primary": "#6B6255",
+        "primaryDark": "#403b33",
+        "primaryLight": "#cbc8c4",
+        "secondary": "#5b5348",
+        "accent": "#6B6255",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5b5348",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "garage-door/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Charlotte's Trusted Garage Door Experts",
+      "heroSubline": "Reliable repairs, installations, and maintenance. Ensuring your garage door operates smoothly and safely.",
+      "aboutTitle": "Your Local Garage Door Partner",
+      "aboutText": [
+        "Adrians Garage Door was founded over a decade ago by Adrian himself, a Charlotte native with a passion for quality workmanship and customer satisfaction. He saw a need for a reliable, honest garage door service in the rapidly growing Charlotte area, and set out to fill it.",
+        "We believe in treating every customer like a neighbor. Our approach is simple: provide clear communication, fair pricing, and expert service. We're committed to using only the highest quality parts and employing skilled technicians who take pride in their work.",
+        "We're proud to be a part of the Charlotte community. We actively support local schools and charities, and strive to give back to the neighborhoods we serve. Your business helps us continue to make a positive impact."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand the urgency of a malfunctioning garage door. We offer prompt, reliable service to get your door back on track quickly."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and experienced in all aspects of garage door repair and installation. You can trust us to get the job done right the first time."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear and upfront pricing with no hidden fees. You'll know exactly what to expect before we start any work."
+        },
+        {
+          "title": "Quality Parts & Service",
+          "description": "We use only the highest quality parts and materials to ensure lasting performance and reliability for your garage door."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Service?",
+      "ctaSubline": "Call us today for a free consultation and estimate. We're here to help!"
+    },
+    "services": [
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast, reliable repairs for all types of garage door issues.",
+        "description": "Is your garage door making strange noises, refusing to open or close, or hanging unevenly? Don't wait for the problem to worsen. Adrians Garage Door provides comprehensive repair services for all makes and models of garage doors. Our experienced technicians can quickly diagnose the issue and provide effective solutions. \n\nWe handle everything from broken springs and cables to malfunctioning openers and damaged panels. We understand the importance of a properly functioning garage door for your home's security and convenience. We prioritize prompt, reliable service to get your door back in working order as quickly as possible. We service homes across Charlotte, from the older ranch homes in neighborhoods like Dilworth to the newer constructions in Ballantyne. \n\nWe also offer emergency repair services for those unexpected situations that require immediate attention, especially during Charlotte's occasional ice storms or intense summer heat. Our goal is to provide you with peace of mind knowing that your garage door is in good hands.",
+        "process": [
+          "Step 1: Diagnostic Assessment: We thoroughly inspect your garage door system to identify the root cause of the problem.",
+          "Step 2: Transparent Quote: We provide a clear and detailed quote for the necessary repairs.",
+          "Step 3: Expert Repair: Our skilled technicians perform the repairs using high-quality parts.",
+          "Step 4: Quality Assurance: We test the garage door to ensure it's functioning smoothly and safely."
+        ],
+        "benefits": [
+          "Improved Home Security",
+          "Enhanced Convenience",
+          "Extended Garage Door Lifespan",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a repair request?",
+            "answer": "We understand that a malfunctioning garage door can be a major inconvenience and security risk. We strive to provide same-day or next-day service whenever possible."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we offer 24/7 emergency repair services for urgent situations. Call us anytime, and we'll dispatch a technician to your location as soon as possible."
+          },
+          {
+            "question": "What types of garage doors do you repair?",
+            "answer": "We repair all types of garage doors, including sectional doors, roll-up doors, and carriage-style doors. We also work on all major brands of garage door openers."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Professional garage door installation for new homes and replacements.",
+        "description": "Whether you're building a new home in Charlotte or replacing an old, outdated garage door, Adrians Garage Door offers expert installation services. We work with all types of garage doors, including steel, wood, aluminum, and composite materials. We'll help you choose the perfect door to match your home's style and budget. \n\nOur experienced technicians ensure a precise and secure installation, paying close attention to every detail. We understand the importance of proper insulation, especially with Charlotte's hot summers and occasional cold snaps. We'll make sure your new garage door is properly sealed to prevent energy loss. \n\nFrom selecting the right door to the final inspection, we'll guide you through every step of the installation process. We handle everything from removing the old door to installing the new opener and safety sensors. We're committed to providing a hassle-free experience and ensuring your complete satisfaction. We serve neighborhoods all over Charlotte, from the historic homes in Myers Park to the modern condos in South End.",
+        "process": [
+          "Step 1: Consultation: We discuss your needs and help you select the perfect garage door.",
+          "Step 2: Precise Measurement: We take accurate measurements to ensure a perfect fit.",
+          "Step 3: Professional Installation: Our skilled technicians install your new garage door with precision and care.",
+          "Step 4: Final Inspection: We thoroughly inspect the installation to ensure everything is working properly."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Improved Security",
+          "Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does a garage door installation take?",
+            "answer": "The installation time varies depending on the type of door and the complexity of the project. However, most installations can be completed in one day."
+          },
+          {
+            "question": "Do you offer a warranty on your installations?",
+            "answer": "Yes, we offer a comprehensive warranty on our installations. We stand behind our workmanship and the quality of the products we use."
+          },
+          {
+            "question": "Can you help me choose the right garage door for my home?",
+            "answer": "Absolutely! Our experienced team can guide you through the selection process and help you find a door that meets your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Troubleshooting and repair of all garage door opener brands and models.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience. Adrians Garage Door provides comprehensive repair services for all types of garage door openers, including chain-drive, belt-drive, and screw-drive models. We're familiar with all major brands, including LiftMaster, Chamberlain, and Genie. \n\nOur experienced technicians can quickly diagnose the problem and provide effective solutions. We handle everything from replacing worn gears and belts to repairing faulty circuit boards and safety sensors. We understand the importance of a properly functioning opener for your home's security and convenience. \n\nWe also offer programming and remote control services. If you're having trouble programming your remote or need a replacement, we can help. We prioritize prompt, reliable service to get your opener back in working order as quickly as possible, serving homes all over Charlotte, from the older neighborhoods near Freedom Park to the newer subdivisions further south.",
+        "process": [
+          "Step 1: Opener Diagnosis: We identify the cause of the opener malfunction.",
+          "Step 2: Repair or Replacement: We repair or replace faulty components as needed.",
+          "Step 3: Safety Sensor Check: We ensure the safety sensors are properly aligned and functioning.",
+          "Step 4: Remote Programming: We program your remote controls for seamless operation."
+        ],
+        "benefits": [
+          "Convenient Garage Door Operation",
+          "Enhanced Security",
+          "Extended Opener Lifespan",
+          "Reliable Performance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs repair?",
+            "answer": "Common signs of a malfunctioning opener include unusual noises, slow operation, failure to open or close, and erratic behavior."
+          },
+          {
+            "question": "Can you repair my garage door opener even if it's an older model?",
+            "answer": "Yes, we can repair most garage door openers, regardless of their age. We have access to a wide range of parts for both new and older models."
+          },
+          {
+            "question": "Do you offer garage door opener maintenance services?",
+            "answer": "Yes, we offer routine maintenance services to keep your garage door opener running smoothly and prevent costly repairs. Contact us to schedule a maintenance appointment."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and professional replacement of broken garage door springs.",
+        "description": "Broken garage door springs can be dangerous and should only be handled by trained professionals. Adrians Garage Door provides safe and reliable spring replacement services. We use high-quality springs that are designed to last. \n\nOur experienced technicians have the tools and expertise to safely remove the old springs and install new ones. We understand the importance of proper spring tension for the smooth and balanced operation of your garage door. We'll make sure your new springs are properly adjusted to ensure optimal performance. \n\nWe offer both torsion spring and extension spring replacement services. We also offer preventative maintenance to help extend the lifespan of your garage door springs. We understand the urgency of a broken spring, especially in neighborhoods like NoDa where parking can be tight. We prioritize prompt, reliable service to get your door back in working order as quickly as possible.",
+        "process": [
+          "Step 1: Safety Inspection: We assess the condition of the springs and ensure the door is safe to work on.",
+          "Step 2: Spring Removal: We safely remove the broken or worn springs.",
+          "Step 3: Spring Installation: We install new, high-quality springs with the correct tension.",
+          "Step 4: Balance Adjustment: We adjust the door balance to ensure smooth and safe operation."
+        ],
+        "benefits": [
+          "Safe Garage Door Operation",
+          "Proper Door Balance",
+          "Extended Spring Lifespan",
+          "Reduced Risk of Injury"
+        ],
+        "faq": [
+          {
+            "question": "How long do garage door springs typically last?",
+            "answer": "The lifespan of garage door springs depends on factors such as usage, maintenance, and the quality of the springs. Typically, springs last between 7 and 12 years."
+          },
+          {
+            "question": "What are the signs of a broken garage door spring?",
+            "answer": "Common signs of a broken spring include a loud snapping noise, a garage door that won't open or close, and a door that appears to be lopsided."
+          },
+          {
+            "question": "Can I replace garage door springs myself?",
+            "answer": "No, replacing garage door springs is a dangerous task that should only be performed by trained professionals. The springs are under high tension and can cause serious injury if handled improperly."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Extend the life of your garage door with regular maintenance services.",
+        "description": "Regular maintenance is essential for keeping your garage door running smoothly and preventing costly repairs. Adrians Garage Door offers comprehensive maintenance services to keep your door in top condition. We'll inspect all components, lubricate moving parts, and adjust the door balance as needed. \n\nOur maintenance services can help extend the lifespan of your garage door and prevent unexpected breakdowns. We'll also identify potential problems before they become major issues. We understand the importance of a properly functioning garage door for your home's security and convenience, especially with Charlotte's unpredictable weather. \n\nWe recommend scheduling a maintenance appointment at least once a year. Our experienced technicians will provide a thorough inspection and tune-up to ensure your garage door is operating safely and efficiently. We serve homes all over Charlotte, from the historic bungalows of Dilworth to the newer homes in South Charlotte.",
+        "process": [
+          "Step 1: Visual Inspection: We inspect all components for signs of wear and tear.",
+          "Step 2: Lubrication: We lubricate all moving parts to ensure smooth operation.",
+          "Step 3: Balance Adjustment: We adjust the door balance to prevent strain on the opener.",
+          "Step 4: Safety Sensor Check: We test the safety sensors to ensure they are functioning properly."
+        ],
+        "benefits": [
+          "Extended Garage Door Lifespan",
+          "Reduced Repair Costs",
+          "Improved Safety",
+          "Smooth and Quiet Operation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule garage door maintenance?",
+            "answer": "We recommend scheduling a maintenance appointment at least once a year."
+          },
+          {
+            "question": "What is included in a garage door maintenance service?",
+            "answer": "Our maintenance service includes a thorough inspection, lubrication of moving parts, balance adjustment, and safety sensor check."
+          },
+          {
+            "question": "Can regular maintenance prevent garage door problems?",
+            "answer": "Yes, regular maintenance can help prevent many common garage door problems and extend the lifespan of your door."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-garage-door-service",
+        "name": "24/7 Emergency Garage Door Service",
+        "shortDescription": "Reliable emergency garage door repair, any time of day or night.",
+        "description": "Garage door emergencies don't wait for convenient hours. That's why Adrians Garage Door offers 24/7 emergency service throughout the Charlotte metro area. Whether it's a broken spring at midnight, a door off its tracks during rush hour, or an opener malfunction on a holiday, we're ready to respond. \n\nWe understand that a malfunctioning garage door can compromise your home's security and safety. Our experienced technicians are equipped to handle any emergency situation quickly and efficiently. We prioritize rapid response times, especially in areas prone to severe weather like Charlotte. \n\nWe're available 24 hours a day, 7 days a week, 365 days a year. Don't hesitate to call us, no matter the time. We'll dispatch a technician to your location as soon as possible to resolve your garage door emergency.",
+        "process": [
+          "Step 1: Immediate Dispatch: We dispatch a technician to your location as quickly as possible.",
+          "Step 2: Safety Assessment: We assess the situation and ensure the area is safe.",
+          "Step 3: Emergency Repair: We perform the necessary repairs to restore your garage door to working order.",
+          "Step 4: Security Check: We ensure your garage door is secure and functioning properly."
+        ],
+        "benefits": [
+          "Rapid Response",
+          "24/7 Availability",
+          "Expert Repairs",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a garage door emergency?",
+            "answer": "A garage door emergency includes situations such as a broken spring, a door off its tracks, a malfunctioning opener, or any other issue that compromises your home's security or safety."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within the hour."
+          },
+          {
+            "question": "Are your emergency service rates higher than your regular rates?",
+            "answer": "Yes, our emergency service rates are slightly higher to account for the after-hours service. However, we always provide transparent pricing and will discuss the rates with you before we begin any work."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Huntersville",
+        "slug": "huntersville-nc",
+        "state": "NC",
+        "content": "Adrian's Garage Door is proud to serve the rapidly growing town of Huntersville, NC. Known for its family-friendly atmosphere and beautiful neighborhoods, Huntersville features many homes built in the 1990s and 2000s, reflecting the town's significant growth during that period. We understand the specific garage door needs of these suburban developments, from standard sectional doors to carriage-style doors that complement the architectural styles prevalent in the area.\n\nGiven Huntersville's hot, humid summers, it's crucial to have a garage door that's properly insulated and maintained. Adrian's Garage Door offers a full range of services, including garage door repair, installation, and maintenance, to ensure your garage door operates efficiently and reliably, protecting your vehicles and belongings from the elements. We are committed to providing Huntersville residents with top-notch garage door solutions and exceptional customer service.",
+        "localContext": "Huntersville, located near Lake Norman, features numerous newer suburban developments from the 1990s and 2000s and experiences hot, humid summers requiring durable and well-maintained garage doors.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Concord",
+        "slug": "concord-nc",
+        "state": "NC",
+        "content": "Adrian's Garage Door provides expert garage door services to the residents of Concord, NC. A city with a rich history and a growing economy, Concord features many established family homes built in the 1980s and 1990s. We are familiar with the common garage door styles and issues found in these neighborhoods, offering tailored solutions to meet your specific needs.\n\nConcord's climate, characterized by hot, humid summers, can take a toll on garage doors. Adrian's Garage Door offers comprehensive maintenance services to ensure your garage door can withstand the elements and continue functioning smoothly. From spring replacements to opener repairs, we have you covered. We are dedicated to providing Concord homeowners with reliable and affordable garage door services.",
+        "localContext": "Concord features many family homes built in the 1980s and 1990s and experiences hot, humid summers, making regular garage door maintenance essential.",
+        "nearbyAreas": [
+          "Kannapolis",
+          "Harrisburg",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Matthews",
+        "slug": "matthews-nc",
+        "state": "NC",
+        "content": "Adrian's Garage Door is your trusted partner for garage door services in Matthews, NC. Known for its charming downtown and established neighborhoods, Matthews features many homes built in the 1970s and 1980s. We understand the unique characteristics of these homes and the garage door needs of their owners.\n\nMatthews experiences hot, humid summers, which can affect the performance and lifespan of your garage door. Adrian's Garage Door offers a wide range of services, including repairs, replacements, and new installations, to keep your garage door in optimal condition. We pride ourselves on our prompt, professional service and commitment to customer satisfaction. We're here to serve you with all your garage door needs in Matthews.",
+        "localContext": "Matthews, with its established suburbs from the 1970s and 1980s and hot, humid summers, requires reliable garage door services to ensure proper functionality and longevity.",
+        "nearbyAreas": [
+          "Mint Hill",
+          "Weddington",
+          "Stallings"
+        ]
+      },
+      {
+        "city": "Fort Mill",
+        "slug": "fort-mill-sc",
+        "state": "SC",
+        "content": "Adrian's Garage Door proudly serves the growing community of Fort Mill, SC. Characterized by newer planned communities built in the 2000s and 2020s, Fort Mill boasts modern homes with contemporary garage door styles. We specialize in installing and servicing a wide variety of garage door systems, ensuring your garage door complements your home's aesthetic and provides reliable performance.\n\nFort Mill's hot, humid summers necessitate durable and well-insulated garage doors. Adrian's Garage Door offers expert advice on selecting the right garage door for your needs and provides comprehensive maintenance services to keep it running smoothly. Whether you need a new garage door opener, spring repair, or a complete garage door replacement, we are here to provide fast and reliable service.",
+        "localContext": "Fort Mill, with its newer planned communities from the 2000s and 2020s and hot, humid summers, benefits from modern, durable, and well-maintained garage doors.",
+        "nearbyAreas": [
+          "Tega Cay",
+          "Rock Hill",
+          "Pineville"
+        ]
+      },
+      {
+        "city": "Gastonia",
+        "slug": "gastonia-nc",
+        "state": "NC",
+        "content": "Adrian's Garage Door is committed to providing top-quality garage door services to the residents of Gastonia, NC. Gastonia features many working-class homes built in the 1960s and 1970s, often requiring reliable and affordable garage door solutions. We understand the unique needs of these homeowners and offer a wide range of services to keep their garage doors functioning properly.\n\nThe hot, humid summers in Gastonia can put a strain on garage doors. Adrian's Garage Door provides expert repairs, maintenance, and installation services to ensure your garage door is up to the task. We are dedicated to providing Gastonia homeowners with exceptional service and affordable prices. Contact Adrian's Garage Door for all your garage door needs.",
+        "localContext": "Gastonia, with its 1960s-70s working-class homes and hot, humid summers, requires affordable and reliable garage door services to maintain home value and security.",
+        "nearbyAreas": [
+          "Mount Holly",
+          "Belmont",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Pineville",
+        "slug": "pineville-nc",
+        "state": "NC",
+        "content": "Adrian's Garage Door is proud to offer our services to the residents of Pineville, NC. This rapidly growing town features a mix of older and newer homes, creating a diverse range of garage door needs. Whether you have an older, traditional garage door or a newer, more modern system, we have the expertise to handle any repair, maintenance, or installation project.\n\nPineville's hot and humid climate can take a toll on garage doors, causing them to rust, warp, or malfunction. Adrian's Garage Door offers a variety of services to combat these issues, including weather stripping replacement, lubrication, and spring repair. We're dedicated to keeping your garage door in top condition, ensuring the safety and security of your home.",
+        "localContext": "Pineville's mix of older and newer homes and hot humid summers necessitate a variety of garage door solutions to meet diverse needs and weather conditions.",
+        "nearbyAreas": [
+          "Charlotte",
+          "Matthews",
+          "Fort Mill"
+        ]
+      },
+      {
+        "city": "Cornelius",
+        "slug": "cornelius-nc",
+        "state": "NC",
+        "content": "Adrian's Garage Door provides expert garage door services to the residents of Cornelius, NC. Located on the shores of Lake Norman, Cornelius boasts a mix of established neighborhoods and newer developments. We understand the specific garage door needs of lakeside homes, from withstanding moisture to complementing the architectural styles prevalent in the area.\n\nCornelius's climate, characterized by hot, humid summers, can affect the performance and lifespan of your garage door. Adrian's Garage Door offers comprehensive maintenance services to ensure your garage door can withstand the elements and continue functioning smoothly. From spring replacements to opener repairs, we have you covered. We are dedicated to providing Cornelius homeowners with reliable and affordable garage door services.",
+        "localContext": "Cornelius, located on Lake Norman, features a mix of housing styles and experiences hot, humid summers, which can impact garage door performance.",
+        "nearbyAreas": [
+          "Huntersville",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Davidson",
+        "slug": "davidson-nc",
+        "state": "NC",
+        "content": "Adrian's Garage Door is your trusted partner for garage door services in Davidson, NC. Home to Davidson College, this charming town features a mix of historic homes and modern residences. We understand the unique needs of both types of properties, offering tailored solutions to meet your specific requirements.\n\nDavidson experiences hot, humid summers, which can affect the performance and lifespan of your garage door. Adrian's Garage Door offers a wide range of services, including repairs, replacements, and new installations, to keep your garage door in optimal condition. Whether you need a new garage door opener, spring repair, or a complete garage door replacement, we are here to provide fast and reliable service.",
+        "localContext": "Davidson, home to Davidson College, features a mix of historic and modern homes and experiences hot, humid summers, requiring a variety of garage door solutions.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Huntersville",
+          "Mooresville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "Adrian came out on a Saturday morning to fix my garage door spring. He was on time, professional, and explained everything clearly. The price was fair, and my door is working perfectly now! Highly recommend.",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Garage Door Installation",
+        "text": "We had Adrians Garage Door install a new garage door for our home in Myers Park. The installation went smoothly, and the door looks great. There was a small issue with the opener programming, but they came back out the next day to fix it. Overall, a good experience.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and I called Adrians Garage Door. They were able to diagnose and fix the problem quickly. The technician was friendly and knowledgeable. I would definitely use them again.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "Excellent service! My garage door spring broke on a Sunday afternoon. Adrian was at my house within an hour and had the new spring installed in no time. I was very impressed with their promptness and professionalism.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Garage Door Maintenance",
+        "text": "I hired Adrians Garage Door for a routine maintenance check. The technician was thorough and identified a potential problem with my cables before it became a major issue. I appreciate their attention to detail.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Emergency Garage Door Service",
+        "text": "Our garage door got stuck halfway open late at night. I called Adrians Garage Door, and they had someone at our house within 30 minutes. He quickly fixed the problem, and we felt much safer knowing our garage was secure. Thank you!",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Adrians Garage Door | Charlotte, NC",
+        "description": "Charlotte's trusted garage door repair and installation experts. Fast, reliable service and quality workmanship. Call today!"
+      },
+      "about": {
+        "title": "About Adrians Garage Door",
+        "description": "Learn about Adrians Garage Door, your local Charlotte garage door service provider. Commitment to quality and customer satisfaction."
+      },
+      "services": {
+        "title": "Garage Door Services | Charlotte, NC",
+        "description": "Comprehensive garage door services in Charlotte, NC. Repair, installation, maintenance, and emergency service. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Adrians Garage Door",
+        "description": "Contact Adrians Garage Door for fast and reliable service in Charlotte, NC. Call us or fill out our online form. We're here to help!"
+      },
+      "reviews": {
+        "title": "Adrians Garage Door Reviews",
+        "description": "Read reviews from satisfied customers of Adrians Garage Door in Charlotte, NC. See why we're the trusted choice for garage door services."
+      },
+      "service-areas": {
+        "title": "Adrians Garage Door Service Areas",
+        "description": "Adrians Garage Door serves Charlotte, NC and surrounding areas. Find out if we service your neighborhood. Fast, reliable service!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp",
+      "emergency-garage-door-service": "/images/service-emergency-garage-door-service.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-garage-door-service": {
+        "src": "/images/service-emergency-garage-door-service.webp",
+        "srcset": "/images/service-emergency-garage-door-service-400w.webp 400w, /images/service-emergency-garage-door-service-800w.webp 800w, /images/service-emergency-garage-door-service-1200w.webp 1200w, /images/service-emergency-garage-door-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
